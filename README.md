@@ -32,7 +32,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/insaumil-jain-b9b579252/](https://www.linkedin.com/in/saumil-jain-b9b579252/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/insaumil-jain-b9b579252/])
 
 ---
 
