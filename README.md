@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsaumil&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsaumile&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsaumil&theme=radical)
 
 ---
 
