@@ -102,4 +102,4 @@ hobbies: "Reading research papers at 2 AM ☕"
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=120&section=footer" width="100%"/>
 </div>
-```
+
