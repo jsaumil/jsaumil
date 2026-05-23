@@ -57,12 +57,24 @@ hobbies: "Reading research papers at 2 AM ☕"
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsaumil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=904e95&icon_color=e96443&ring_color=904e95" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsaumil&theme=tokyonight&hide_border=true&background=0d1117&ring=904e95&fire=e96443&currStreakLabel=904e95" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsaumil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=904e95&langs_count=8" width="48%"/>
+  
+  <!-- Top Row: Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=jsaumil&theme=tokyonight"/>
+  
+  <br><br>
+  
+  <!-- Bottom Row: Language and Stats side-by-side -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsaumil&theme=tokyonight"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsaumil&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+  
 </div>
 
 ---
@@ -72,14 +84,6 @@ hobbies: "Reading research papers at 2 AM ☕"
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jsaumil&theme=discord&no-bg=true&no-frame=true&column=7&margin-w=5"/>
 </div>
-
----
-
-## 📝 Recent Blog Posts & Learning Notes
-
-<!-- BLOG-POST-LIST:START -->
-> 📌 *Stay tuned — I'll be sharing notes on MCP, RAG, and agent architectures soon!*
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -95,9 +99,6 @@ hobbies: "Reading research papers at 2 AM ☕"
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsaumil&color=904e95&style=for-the-badge&label=PROFILE+VIEWS" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=120&section=footer" width="100%"/>
